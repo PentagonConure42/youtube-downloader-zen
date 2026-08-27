@@ -1,6 +1,6 @@
 # ✨ Youtube Downloader Zen
 
-> Simple to set up, easy to keep.
+> Simple to set up, easy to maintain.
 
 ---
 

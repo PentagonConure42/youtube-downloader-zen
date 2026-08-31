@@ -1,11 +1,11 @@
-# ✨ Youtube Downloader Zen
+# ✨ YouTube Downloader Zen
 
 > Simple to set up, easy to keep.
 
 ---
 
 ## Description
-Full-featured **Youtube Downloader Zen** video editing and post-production toolkit for creating professional-quality visual content.
+Full-featured **YouTube Downloader Zen** video editing and post-production toolkit for creating professional-quality visual content.
 
 ---
 
